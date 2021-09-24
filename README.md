@@ -1,4 +1,4 @@
-# api_reactive_dart
+# Reactive Dart(RxDart Example)
 
 A new Flutter project.
 
